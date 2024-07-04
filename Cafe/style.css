@@ -1,0 +1,16 @@
+body{
+    background-image: url(img/main-cover.jpg);
+    background-size: cover;
+}
+
+/*index page*/
+
+.main-cover-1{
+    background-color: bisque;
+}
+
+/*about page*/
+
+.about-main{
+    background-color: blanchedalmond;
+}
